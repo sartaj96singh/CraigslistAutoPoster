@@ -1,0 +1,22 @@
+{
+    "AppName": "Auto Craigslist Poster",
+    "Creator": "Sartaj Singh",
+    "Created": "August 2021",
+    "SellingItems": [
+      {
+        "title": "Mini Fridge",
+        "price": "60",
+        "description": "Working condition with some scratches on the front."
+      },
+      {
+        "title": "Aluminum Seat Bleachers",
+        "price": "500",
+        "description": "About 12-15 Feet long and 5-6 Feet wide seating bleachers. "
+      },
+      {
+        "title": "Garden Hose Reel Storage",
+        "price": "100",
+        "description": "Working Codition, I am not sure how long the hose is, about 10-50 Feet. "
+      }
+    ]
+  }
